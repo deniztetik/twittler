@@ -23,7 +23,8 @@ tweets div {
 	font-family: 'Indie Flower', cursive;
 	border-radius: 10px;
 	padding: 10px 10px;
-	margin: 10px 10px;
+	margin: 10px 0;
+	color: #666;
 	background-color: rgba(256, 256, 256, 0.35);
 }
 
@@ -43,8 +44,8 @@ user:hover {
 	display: inline-block;
 	font-weight: 400;
 	letter-spacing: .5px;
-	margin: 0;
-	text-transform: uppercase;
+	margin: 20px 0;
+	font-size: 16px;
 }
 
 .btn-alt {
